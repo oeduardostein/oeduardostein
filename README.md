@@ -21,7 +21,7 @@ Estou comprometido em continuar aprendendo e evoluindo, buscando sempre a excel�
 
 <!-- Rank de Projetos no Code Wars -->
 <div style="display: inline_block">
-<h2>🌐 Rank in Code Wars!</h2>
+<h2>🌐 Rank in Code Wars!!</h2>
  <img align="center" alt="Eduardo-Node" height="100" width="420" src='https://www.codewars.com/users/oeduardostein/badges/large'>
 </div>
 
