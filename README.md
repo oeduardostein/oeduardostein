@@ -73,7 +73,7 @@ Estou comprometido em continuar aprendendo e evoluindo, buscando sempre a excelÃ
 
 VocÃª pode me encontrar em qualquer uma das minhas redes sociais abaixo! 
 
-<a href="https://www.linkedin.com/in/eduardo-stein-66a504287/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/oeduardostein" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/eduardo_stein_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:dudustein2024@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
