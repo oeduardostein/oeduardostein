@@ -1,5 +1,3 @@
-oeduardostein.README.md
-
 <!-- Meu Nome -->
 <h1 align="center" >Olá! Eu sou o Eduardo Stein! 👋</h1>
 
