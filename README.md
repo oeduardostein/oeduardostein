@@ -44,7 +44,7 @@ Estou comprometido em continuar aprendendo e evoluindo, buscando sempre a excel√
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oeduardostein&repo=oeduardostein&theme=dark&show_owner=true" />
 </a>
 <a href="https://github.com/oeduardostein/dall-e">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oeduardostein&repo=dall-e&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oeduardostein&repo=JAVA&theme=dark" />
 </a>
 
 <!-- Linguagens que eu uso -->
@@ -73,13 +73,9 @@ Estou comprometido em continuar aprendendo e evoluindo, buscando sempre a excel√
 
 Voc√™ pode me encontrar em qualquer uma das minhas redes sociais abaixo! 
 
-<a href="https://www.linkedin.com/in/oeduardostein/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/oeduardostein/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.youtube.com/@oeduardostein" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.threads.net/@oeduardostein" target="_blank"><img src="https://img.shields.io/badge/-Threads-%235C4B8B?style=for-the-badge&logo=threads&logoColor=white" target="_blank"></a>
-<a href="https://www.behance.net/EduardoStein2" target="_blank"><img src="https://img.shields.io/badge/-Behance-%23191919?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/EduardoSteino" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="mailto:SteinEduardo15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/eduardo-stein-66a504287/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/eduardo_stein_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:dudustein2024@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ##
 
