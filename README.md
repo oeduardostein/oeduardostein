@@ -15,7 +15,7 @@
 
 Atualmente, atuo na área de programação, onde desenvolvo soluções eficientes utilizando diversas linguagens e frameworks para entregar sistemas robustos e funcionais. Reconhecendo a importância contínua da tecnologia em todos os setores, estou constantemente aprimorando minhas habilidades para criar aplicações de alta performance e adaptadas às necessidades modernas.
 
-No momento, estou ampliando meus conhecimentos em linguagens como C, C++, Java, Flutter, Python, HTML, CSS e JavaScript. Essas ferramentas me permitem construir desde sistemas complexos até interfaces web dinâmicas, garantindo uma base sólida para enfrentar os desafios do mercado de tecnologia.
+No momento, estou ampliando meus conhecimentos em linguagens como PHP, Flutter, React, Python, HTML, CSS e JavaScript. Essas ferramentas me permitem construir desde sistemas complexos até interfaces web dinâmicas, garantindo uma base sólida para enfrentar os desafios do mercado de tecnologia.
 
 Estou comprometido em continuar aprendendo e evoluindo, buscando sempre a excelência em tudo que faço e preparado para enfrentar os desafios do mercado contemporâneo.
 
